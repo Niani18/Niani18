@@ -56,4 +56,4 @@ https://github.com/Niani18/peluqueria-backend
 ## Contact
 
 - GitHub: https://github.com/Niani18
-- Email: santigusti18@gmail.com
+- Email: santigiusti18@gmail.com
